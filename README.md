@@ -1,7 +1,7 @@
 ## Hi there! 👋
 ### Welcome to the Official Conceptibles!
 Looks like you're lost!
-visit our [Website!](https://example.com](https://conceptibles.github.io/Conceptibles/)
+Visit our [Website!](https://conceptibles.github.io/Conceptibles/)
 
 <!--
 **Conceptibles/Conceptibles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
