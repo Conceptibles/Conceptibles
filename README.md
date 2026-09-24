@@ -1,6 +1,6 @@
 ## Hi there! 👋
 ### Welcome to the Official Conceptibles!
-Looks like you're lost!
+<!--Looks like you're lost!
 Visit our [Website!](https://conceptibles.github.io/Conceptibles/)
 
 <!--
