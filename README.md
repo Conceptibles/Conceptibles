@@ -5,7 +5,11 @@ today at Conceptibles, we believe that any project can be done in a flash withou
 
 ### What we do?
 here at Conceptibles, we can our premade code and implement it for your projects! turning 
-a long hassle into a quick deployment or even a presentation
+a long hassle into a quick deployment or even a presentation for your business
+
+### Facts about our company
+* *Established in 2021* and it's been 6 years of deployment and over 5,000+ Clients Served in the World
+* 
 
 
 <!--Looks like you're lost!
