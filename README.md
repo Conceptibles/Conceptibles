@@ -1,5 +1,13 @@
 ## Hi there! 👋
 ### Welcome to the Official Conceptibles!
+
+today at Conceptibles, we believe that any project can be done in a flash without the hassle!
+
+### What we do?
+here at Conceptibles, we can our premade code and implement it for your projects! turning 
+a long hassle into a quick deployment or even a presentation
+
+
 <!--Looks like you're lost!
 Visit our [Website!](https://conceptibles.github.io/Conceptibles/)
 
