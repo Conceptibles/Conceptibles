@@ -8,9 +8,9 @@ here at Conceptibles, we can our premade code and implement it for your projects
 a long hassle into a quick deployment or even a presentation for your business
 
 ### Facts about our company
-* *Established in 2021* and it's been 6 years of deployment and over 5,000+ Clients Served in the World
-* *Over 10,000 Code snippets* available from our teams
-* *Free and Open Source* for the communities in need
+* **Established in 2021** and it's been 6 years of deployment and over 5,000+ Clients Served in the World
+* **Over 10,000 Code snippets** available from our teams
+* **Free and Open Source** for the communities in need
 
 
 <!--Looks like you're lost!
